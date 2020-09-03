@@ -1,0 +1,31 @@
+{
+  "name": "fair-split-calc",
+  "version": "0.1.0",
+  "description": "A simple ReactJS calculator that takes two different earnings and determines the amount each should pay towards an inputed set of household bills.",
+  "homepage": "https://fair-split-calc.herokuapp.com/",
+  "bugs": {
+    "url": "https://github.com/jamigibbs/fair-split-calculator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamigibbs/fair-split-calculator.git"
+  },
+  "author": "Jami Gibbs <jami0821@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
